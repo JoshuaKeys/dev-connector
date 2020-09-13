@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://chat-app-client:chat-app-client@cluster0-u3ye7.mongodb.net/dev-connector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "fcbe70a2e924992fdafe",
+  "githubSecret": "19d6249ba96d1c09daca98c1deef740b0f1598d8"
+}
