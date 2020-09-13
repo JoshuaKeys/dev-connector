@@ -159,6 +159,8 @@
   margin-right: 0.5rem;
   outline: none;
   transition: all 0.2s ease-in;
+  -webkit-appearance: none;
+  border-radius: 0;
 }
 
 .btn.btn-primary {
