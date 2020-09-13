@@ -12,8 +12,7 @@
     "client-react": "npm start --prefix client-react",
     "client-angular": "npm start --prefix client-angular",
     "client-vue": "npm run serve --prefix client-vue",
-    "dev": "concurrently \"npm run server\" \"npm run client-react\" \"npm run client-angular\" \"npm run client-vue\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client-react && npm run build --prefix client-react"
+    "dev": "concurrently \"npm run server\" \"npm run client-react\" \"npm run client-angular\" \"npm run client-vue\""
   },
   "author": "joshua oguma - joshua.oguma@outlook.com",
   "license": "MIT",
